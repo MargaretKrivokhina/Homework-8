@@ -20,7 +20,6 @@ ul {
 
 ul {
   list-style: none;
-  padding: 2px 0;
 }
 
 nav {
@@ -171,6 +170,11 @@ h3::first-line {
 #education li,
 #hobby li {
   margin-bottom: 25px;
+}
+
+#education li:last-child,
+#hobby li:last-child {
+  margin-bottom: 0;
 }
 
 footer {
