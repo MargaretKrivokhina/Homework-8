@@ -162,9 +162,9 @@ h3::first-line {
   text-decoration: underline;
 }
 
-#education p,
-#hobby p {
-  margin-top: 20px;
+#education img,
+#hobby img {
+  margin-bottom: 20px;
 }
 
 #education li,
